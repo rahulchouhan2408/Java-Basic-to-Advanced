@@ -1,6 +1,6 @@
 //this program swap two numbers
 
-package BasicProgram.Operators;
+package Operators;
 
 import java.util.Scanner;
 

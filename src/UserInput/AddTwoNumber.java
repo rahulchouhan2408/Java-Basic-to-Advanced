@@ -1,5 +1,5 @@
 //This Program asked you your first number and second number then give sum of these numbers
-package BasicProgram.UserInput;
+package UserInput;
 
 import java.util.Scanner;
 

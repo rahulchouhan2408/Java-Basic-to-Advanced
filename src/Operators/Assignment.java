@@ -1,5 +1,5 @@
 //Assign the right-hand operand's value to the left operand.
-package BasicProgram.Operators;
+package Operators;
 
 public class Assignment {
     public static void main(String[] args){

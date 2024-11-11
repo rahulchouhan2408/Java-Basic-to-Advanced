@@ -1,5 +1,5 @@
 // This program asked you to enter your Name and Age.
-package BasicProgram.UserInput;
+package UserInput;
 
 import java.util.Scanner;
 

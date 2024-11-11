@@ -1,5 +1,5 @@
 // This program ask you your Name and then greet you
-package BasicProgram.UserInput;
+package UserInput;
 
 import java.util.Scanner;
 
