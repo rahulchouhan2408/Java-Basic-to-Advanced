@@ -1,3 +1,4 @@
+// Create a program to find the sum and average of all elements in an array.
 package Array.Challenges.Task1;
 
 public class SumAndAvg {
