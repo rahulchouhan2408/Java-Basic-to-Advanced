@@ -2,7 +2,7 @@ package Array.Challenges.Task9;
 
 import java.util.Scanner;
 
-public class SearchUtility {
+public class SearchUtility{
     public static int[] inputArray(){
         Scanner Arr = new Scanner(System.in);
         System.out.print("Please enter the number of elements: ");
